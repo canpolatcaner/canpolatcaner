@@ -6,6 +6,6 @@
 ### - Data Analysis
 ### - Optimization
 ### - Operations Research
-<img src="https://imidb.klu.edu.tr/Resimler/956-ataturk.klu" alt="Logo" width="200">
+<img src="./ata.jpg" alt="Logo" width="200">
 <img src="https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif" alt="Bayrak Gif" width="200">
 
