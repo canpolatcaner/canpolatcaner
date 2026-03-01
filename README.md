@@ -1,8 +1,6 @@
 # **_Caner CANPOLAT_**
 ## *Personal information*:
-### 
-## *Education*:
-###
+### Learning enthusiast, versatil professional, awake and aware
 ## *Specialization*:
 ### - Data Analysis
 ### - Optimization
