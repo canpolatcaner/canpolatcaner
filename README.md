@@ -3,7 +3,7 @@
 ### 
 ## *Education*:
 ###
-## *Specialisation*:
+## *Specialization*:
 ### - Data Analysis
 ### - Optimization
 ### - Operations Research
