@@ -1,9 +1,9 @@
 # **_Caner CANPOLAT_**
 ## *Personal information*:
 ### 
-## *Formation*:
+## *Education*:
 ###
-## *Hobbies*:
+## *Specialisation*:
 ### - Data Analysis
 ### - Optimization
-### - Operation Researche
+### - Operations Research
