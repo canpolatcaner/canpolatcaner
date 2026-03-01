@@ -1,8 +1,9 @@
 # **_Caner CANPOLAT_**
-## *Kişisel bilgiler*:
+## *Personal information*:
 ### 
-## *Eğitim*:
+## *Formation*:
 ###
-## *İlgilendiği konular*:
-### - Veri analizi
-    - Optimizasyon
+## *Hobbies*:
+### - Data Analysis
+### - Optimization
+### - Operation Researche
