@@ -2,7 +2,7 @@
 
 <p><img src="./ata.jpg" alt="AtatürkLogo" width="250">
 <img src="https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif" alt="Bayrak Gif" width="300">
-<img src="https://i.pinimg.com/736x/87/86/51/878651de4623a8d98d54fee5cb21beb4.jpg" alt="BozkurtLogo" width="250" height=100></p>
+<img src="https://i.pinimg.com/736x/87/86/51/878651de4623a8d98d54fee5cb21beb4.jpg" alt="BozkurtLogo" width="250" height=250></p>
 
 ## *Personal information*:
 ### Learning enthusiast, versatil professional, awake and aware
