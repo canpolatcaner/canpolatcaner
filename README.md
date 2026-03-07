@@ -9,7 +9,8 @@
 ### [linkedin](https://www.linkedin.com/in/caner-canpolat-4b3b63210/)
 
 ## *Specialization*:
-### - Data Analysis
-### - Optimization
-### - Operations Research
+### - Decision Science
+### - - Data Science
+### - - Optimization
+### - - Operations Research
 
